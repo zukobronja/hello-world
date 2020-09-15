@@ -4,4 +4,5 @@
 <h2> Docker Image Deployment </h2>
 <h2> Ansible Build </h2>
 <h2> Ansible Container build and run </h2>
+<h2> Full Pipline </h2>
 <h3> ------------------------- </h3>
